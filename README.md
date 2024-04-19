@@ -23,7 +23,7 @@ pip install pyspark
 
 Clona este repositorio en tu máquina local:
 
-git clone https://github.com/tu_usuario/proceso-etl-pyspark.git
+git clone https://github.com/sergioaceros/PySparkETL/blob/main/PysparkETL.ipynb
 
 Ejecuta el script principal de PySpark que contiene el proceso de ETL:
 
